@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-This is a backend-tooling independent design system
+This is a great design system
 
 <!--
 
